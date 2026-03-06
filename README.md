@@ -61,4 +61,3 @@ UI polls and displays the event
 
 This is a test statement!
 test statement 2
-test statement pull_request
